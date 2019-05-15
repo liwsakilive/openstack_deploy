@@ -1,0 +1,4 @@
+---
+dnsaas_hosts:
+  dnsaas_server:
+    ip: 139.5.144.150

@@ -1,0 +1,78 @@
+{
+    "aio1": {
+        "ansible_host": "172.29.236.100",
+        "container_address": "172.29.236.100"
+    },
+    "aio1_aodh_container-d2dfbc5d": {
+        "ansible_host": "172.29.238.187",
+        "container_address": "172.29.238.187"
+    },
+    "aio1_ceilometer_central_container-4a09e7ba": {
+        "ansible_host": "172.29.239.68",
+        "container_address": "172.29.239.68"
+    },
+    "aio1_cinder_api_container-34bcaa87": {
+        "ansible_host": "172.29.236.235",
+        "container_address": "172.29.236.235"
+    },
+    "aio1_galera_container-5666a1b5": {
+        "ansible_host": "172.29.236.120",
+        "container_address": "172.29.236.120"
+    },
+    "aio1_glance_container-33cd7441": {
+        "ansible_host": "172.29.237.94",
+        "container_address": "172.29.237.94"
+    },
+    "aio1_gnocchi_container-4cbfab44": {
+        "ansible_host": "172.29.238.119",
+        "container_address": "172.29.238.119"
+    },
+    "aio1_heat_api_container-a80fcc22": {
+        "ansible_host": "172.29.239.199",
+        "container_address": "172.29.239.199"
+    },
+    "aio1_horizon_container-82b54151": {
+        "ansible_host": "172.29.237.127",
+        "container_address": "172.29.237.127"
+    },
+    "aio1_keystone_container-7c19e67c": {
+        "ansible_host": "172.29.239.193",
+        "container_address": "172.29.239.193"
+    },
+    "aio1_memcached_container-ffa10b45": {
+        "ansible_host": "172.29.239.225",
+        "container_address": "172.29.239.225"
+    },
+    "aio1_neutron_server_container-7e57d2a2": {
+        "ansible_host": "172.29.237.152",
+        "container_address": "172.29.237.152"
+    },
+    "aio1_nova_api_container-a748402e": {
+        "ansible_host": "172.29.239.14",
+        "container_address": "172.29.239.14"
+    },
+    "aio1_rabbit_mq_container-640baaaa": {
+        "ansible_host": "172.29.237.107",
+        "container_address": "172.29.237.107"
+    },
+    "aio1_repo_container-d8c0d3a6": {
+        "ansible_host": "172.29.236.84",
+        "container_address": "172.29.236.84"
+    },
+    "aio1_rsyslog_container-d91de105": {
+        "ansible_host": "172.29.238.215",
+        "container_address": "172.29.238.215"
+    },
+    "aio1_swift_proxy_container-ad1f6ba7": {
+        "ansible_host": "172.29.238.65",
+        "container_address": "172.29.238.65"
+    },
+    "aio1_utility_container-6af3a9a9": {
+        "ansible_host": "172.29.237.119",
+        "container_address": "172.29.237.119"
+    },
+    "dnsaas_server": {
+        "ansible_host": "139.5.144.150",
+        "container_address": "139.5.144.150"
+    }
+}
