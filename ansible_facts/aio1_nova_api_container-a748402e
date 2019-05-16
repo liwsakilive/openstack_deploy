@@ -760,8 +760,8 @@
                 "variant": "default"
             }, 
             "nova": {
-                "need_online_data_migrations": "True", 
-                "need_service_restart": "True", 
+                "need_online_data_migrations": "False", 
+                "need_service_restart": "False", 
                 "venv_tag": "17.1.9"
             }
         }

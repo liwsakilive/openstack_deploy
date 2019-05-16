@@ -757,9 +757,9 @@
     "ansible_local": {
         "openstack_ansible": {
             "keystone": {
-                "need_db_contract": "True", 
-                "need_db_expand": "True", 
-                "need_db_migrate": "True", 
+                "need_db_contract": "False", 
+                "need_db_expand": "False", 
+                "need_db_migrate": "False", 
                 "venv_tag": "17.1.9"
             }, 
             "lxc": {

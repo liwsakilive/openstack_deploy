@@ -782,7 +782,7 @@
     "ansible_local": {
         "openstack_ansible": {
             "glance": {
-                "need_service_restart": "True", 
+                "need_service_restart": "False", 
                 "venv_tag": "17.1.9"
             }, 
             "lxc": {
